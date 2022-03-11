@@ -1,6 +1,0 @@
-@Test
-public void TC(){
-  
-}
-public void TC3{
-}
